@@ -7,7 +7,7 @@ build:
 accounts:
   message: "Welcome to Bank accounts related QaTesting APIs "
   contactDetails:
-    name: "chandu - Qa Lead"
+    name: "ganesh - Qa Lead"
     email: "ganesh@gmail.com"
   onCallSupport:
     - (555) 444-1234
