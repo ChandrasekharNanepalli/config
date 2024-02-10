@@ -4,7 +4,7 @@ build:
   version: "2.0"
   
 cards:
-  message: "Welcome to Bank Cards related Qa Apis"
+  message: "Welcome to Bank Cards related QaTesting Apis"
   contactDetails:
     name: "manish - Qa Lead"
     email: "manish@gmail.com"
