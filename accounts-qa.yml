@@ -5,7 +5,7 @@ build:
   
 
 accounts:
-  message: "Welcome to Bank accounts related QaTesting APIs "
+  message: "Welcome to Bank accounts related Qa APIs "
   contactDetails:
     name: "ganesh - Qa Lead"
     email: "ganesh@gmail.com"
